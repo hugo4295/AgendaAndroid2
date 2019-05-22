@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgendaAndroid</string>
+    <string name="Agenda">Listado de Agenda</string>
+    <string name="ORegistrar">Registrar Elemento</string>
+</resources>
